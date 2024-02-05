@@ -39,11 +39,13 @@ How To Install:
       $ ls <br/>
       $ bash NewTools.sh <br/>
   
-  Enjoy Me Fried 
+ 
 
-  Thanks To : GitHub
-
-  Thanks To : All Fried No Life 
+Thanks To:
+       
+       $Enjoy Me Fried 
+       $Thanks To : GitHub
+       $Thanks To : All Fried No Life 
   
 
 
